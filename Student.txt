@@ -1,0 +1,7 @@
+ram 101 89
+shyam 102 78.89
+geeta 103 97.6
+meera 104 78.5
+sita 105 79.63
+krishna 106 78.99
+radha 107 98
